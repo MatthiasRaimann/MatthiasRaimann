@@ -1,6 +1,6 @@
 # Matthias Raimann
 
-CTO bei [besdi](https://besdi.de) (ehemals mitdenkt) und geschäftsführender Gesellschafter bei [LuvLabs](https://luvlabs.de).
+CTO bei [besdi](https://besdi.de) (ehemals #mitdenkt) und geschäftsführender Gesellschafter bei [LuvLabs](https://luvlabs.de).
 
 [matthias@besdi.de](mailto:matthias@besdi.de) · [matthias@luvlabs.de](mailto:matthias@luvlabs.de)
 
