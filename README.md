@@ -11,8 +11,8 @@ CTO bei [besdi](https://besdi.de) (ehemals #mitdenkt) und geschäftsführender G
 
 ## Ausbildung
 
-- M.Sc. Informatik, Schwerpunkte *Architektur und Management innovativer Geschäftsanwendungen* und *Data Science* (Note: sehr gut)
-- B.Sc. Wirtschaftsinformatik (Note: sehr gut)
+- M.Sc. Informatik, [HAW Hamburg](https://www.haw-hamburg.de), Schwerpunkte *Architektur und Management innovativer Geschäftsanwendungen* und *Data Science* (Note: sehr gut)
+- B.Sc. Wirtschaftsinformatik, [Technische Hochschule Ingolstadt](https://www.thi.de) (Note: sehr gut)
 
 ## Tech-Stack
 
